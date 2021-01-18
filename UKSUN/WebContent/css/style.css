@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+h1 { /* 신입개발자정욱선 */
+	text-align: center;
+	font-size: 70px;
+}
+
+
+.UKSUN_img { /* 내 사진 */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 { /* 보유스킬 */
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.language { /* 언어설명 */
+	font-size: 30px;
+}
+
+ul { /* 순서 없는 목록 ul,li태그 중앙으로 옮기기 */
+	/* width: 300px; 크기 지정*/
+	display: table; /* 내용에 맞게 자동으로 크기 조절 */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+.shop { /* 개인 프로젝트 부분 */
+	/* margin-bottom: 15%; 밑에 글이랑 간격*/
+	font-size: 30px;
+}
+
+.ode { /* 팀 프로젝트 부분 */
+	/* margin-bottom: 15%; 밑에 글이랑 간격*/
+	font-size: 30px;
+}
+
+div {
+	display: block;
+	text-align: center;
+}
+
+
+h6 { /* 보유스킬 */
+	text-align: center;
+	font-size: 30px;
+}
