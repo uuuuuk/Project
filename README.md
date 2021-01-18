@@ -19,7 +19,7 @@
 > '우리가 해야할 일은 끊임없이 호기심을 갖고 새로운 생각을 시험해보고 새로운 인상을 받는 것이다.'
 
 
-[메인 화면으로 돌아가시겠습니까?](https://github.com/uuuuuk2/MyProject)
+[메인 화면으로 돌아가시겠습니까?](https://github.com/uuuuuk/Project)
 
 <!--
 강조는 다음과 같이
