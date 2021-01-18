@@ -1,0 +1,88 @@
+@CHARSET "UTF-8";
+/* loginHeader에 원래 있던 CSS */
+.input-group-text { 
+	text-align: right;
+	margin: 0 0 0 0;
+	padding: 0; 
+	font-size: 14px;
+	width: auto;
+	height: 20px;
+}
+#btnEmailCheck {
+	margin: 0 0 0 2px;
+	padding: 0; 
+	font-size: 11px;
+	width: 90px;
+	height: 37px;
+}
+#btnEmailAuth {
+	margin: 0 0 0 1px !important;
+	padding: 0; 
+	font-size: 11px;
+	width: 70px;
+	height: 37px;
+}
+#textMessage{
+	margin: 4.5px 0 0 2px !important;
+	padding: 0; 
+	font-size: 11px;
+	width: 70px;
+	height: 31.35px;
+}
+#emailArea {
+	padding: 0;
+	margin: 2 0 0 1px;
+	width: auto;
+	height: 50px;
+}
+#userAuthNum {
+	margin: 0 0 10 20px;
+	padding: 0; 
+	font-size: 13px;
+	width: 300px;
+	height: 35px;
+}
+#btnAuthNumCheck {
+	margin: 0 0 0 5px !important;
+	padding: 0; 
+	font-size: 11px;
+	width: 80px;
+	height: 37px;
+}
+#emailAuthTag {
+	text-align: center;
+	margin: 0 0 0 0px !important;
+	padding: 0; 
+	font-size: 14px;
+	width: 436px;
+	height: 40px;
+}
+#emailCheckResult {margin: 0 0 0 0 !important;}
+#emailAuthCheckResult {margin: 0 !important;}
+#emailAuthTotal {height: 50px;}
+#inputGroupAppend {margin: 1 1 1 20px; height: 38px;}
+#messageArea {overflow: auto; width: 800px; height: 300px;}
+#birthSelectGroup {width: 350px;}
+#year {margin-left: 35px; width: 100px; border-width: 0 0 1px; border-radius: 0px;}
+#month {margin-left: 10px; width: 80px; border-width: 0 0 1px; border-radius: 0px}
+#day {margin-left: 10px; width: 80px; border-width: 0 0 1px; border-radius: 0px}
+.form-control {border-left: none !important; border-right: none !important; border-top: none !important;}
+#emailDomain {
+	padding: 0; 
+	width: 95px; 
+	margin: 0 0 0 1px !important;
+	border-width: 0px !important;
+	height: 35px !important;
+	border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
